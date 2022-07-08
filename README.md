@@ -8,26 +8,24 @@ I was presented with the following coding exercise during a job application. As 
 
 You are an up-and-coming intergalactic trader. You want to start building your fleet of logistic vessels. Given that some solar systems are not entirely friendly, your ship needs to have defense capabilities as well.
 
-A functioning ship needs the following:
+A functioning ship needs the following:  
 
-- Engine
-- Fuselage
-- 20 units of Ammo
-- Weapons system
-- Navigation system
-- 5 units of shields
+Engine  
+Fuselage  
+20 units of Ammo  
+Weapons system  
+Navigation system  
+5 units of shields    
 
 Your currency portfolio looks as below:
 
-CURA - 20000
-
-CURB - 200
-
-CURC - 5000
+CURA - 20000  
+CURB - 200  
+CURC - 5000  
 
 Each market can offer goods and services but only in that currency.
 
-Market A - accepts currency A
+### Market A - accepts currency A
 
 It then offers goods and services denominated in Currency A.
 
@@ -37,7 +35,7 @@ ammo - 4 CURA
 
 1 CURB - 50 CURA
 
-Market B - accepts Currency B
+### Market B - accepts Currency B
 
 shields - 20 CURB
 
@@ -53,7 +51,7 @@ CURC - 0.8 CURB
 
 CURA - 0.025 CURB
 
-Market C accepts Currency C
+### Market C accepts Currency C
 
 Shields - 20 CURC
 
@@ -65,6 +63,6 @@ Navigation System - 5 CURC
 
 Weapon system - 20 CURC
 
-CURB - 1.2 CURC
+CURB - 1.2 CURC    
 
-Assuming the costs for shipping and assembly are zero, figure out the most optimal strategy to build a ship.
+#### Assuming the costs for shipping and assembly are zero, figure out the most optimal strategy to build a ship.
